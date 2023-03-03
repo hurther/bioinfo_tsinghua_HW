@@ -6,6 +6,7 @@
 如有疑问或意见请发送邮件联系：zhonghc21@mails.tsinghua.edu.cn
 ## 2.更新日志
 * 2023年2月27日
+
   上传 HW1 文件夹，作业内容为 
   * Getting strated 
   * 1.1 docker
@@ -15,3 +16,10 @@
   * lecture_1.md
   * docker_usage.mp4
   * linux_command.md
+* 2023年3月3日
+
+  上传 OL1 文件夹，作业内容为
+  * 2.2 Practice Guide 上机部分
+
+  上传 HW2 文件夹，作业内容为
+  * 2.2 Practice Guide 课后部分
