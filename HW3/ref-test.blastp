@@ -1,0 +1,68 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: User specified sequence set (Input: ref.txt).
+           1 sequences; 70 total letters
+
+
+
+Query= 
+Length=70
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  unnamed protein product                                             121     1e-43
+
+
+> unnamed protein product
+Length=70
+
+ Score = 121 bits (303),  Expect = 1e-43, Method: Compositional matrix adjust.
+ Identities = 69/70 (99%), Positives = 69/70 (99%), Gaps = 0/70 (0%)
+
+Query  1   MMTRSVSSSSYRRMFGGPGTASRPSSSRSYVTTSTRTYSLGSALRPSTSRSLYASSPGGV  60
+           M TRSVSSSSYRRMFGGPGTASRPSSSRSYVTTSTRTYSLGSALRPSTSRSLYASSPGGV
+Sbjct  1   MSTRSVSSSSYRRMFGGPGTASRPSSSRSYVTTSTRTYSLGSALRPSTSRSLYASSPGGV  60
+
+Query  61  YATRSSAVRL  70
+           YATRSSAVRL
+Sbjct  61  YATRSSAVRL  70
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.117    0.313    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4096
+
+
+  Database: User specified sequence set (Input: ref.txt).
+    Posted date:  Unknown
+  Number of letters in database: 70
+  Number of sequences in database:  1
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
