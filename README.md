@@ -9,8 +9,8 @@
 
   上传 HW1 文件夹，作业内容为 
   * Getting strated 
-  * 1.1 docker
-  * 2.1 Basic Command
+  * I.1.1 docker
+  * I.2.1 Basic Command
    
   分别对应文件为
   * lecture_1.md
@@ -19,7 +19,11 @@
 * 2023年3月3日
 
   上传 OL1 文件夹，作业内容为
-  * 2.2 Practice Guide 上机部分
+  * I.2.2 Practice Guide 上机部分
 
   上传 HW2 文件夹，作业内容为
-  * 2.2 Practice Guide 课后部分
+  * I.2.2 Practice Guide 课后部分
+* 2023年3月14日
+
+  上传 HW3 文件夹，作业内容为
+  * II.1 BLAST
