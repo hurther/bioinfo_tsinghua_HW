@@ -31,3 +31,8 @@
 
   上传 OL2 文件夹，作业内容为
   * I.2.3 Linux Bash
+* 2023年3月31日
+
+  上传 HW4 文件夹，作业内容为
+  * III.1 Mapping
+  * III.1.1 Genome Browser
