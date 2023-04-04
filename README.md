@@ -36,3 +36,12 @@
   上传 HW4 文件夹，作业内容为
   * III.1 Mapping
   * III.1.1 Genome Browser
+* 2023年4月4日
+
+  上传 HW5 文件夹，作业内容为
+  * III.1.2 bedtools and samtools
+  * Appendix VI. Genome Annotations
+
+  分别对应文件为：
+  * samtools and bedtools.md
+  * Genome Annotations.md
