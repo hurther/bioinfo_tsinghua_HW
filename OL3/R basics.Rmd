@@ -1,0 +1,30 @@
+# R basics
+## Task 1
+```{r}
+df <- iris
+colnames(df)
+```
+分析可知，该数据集有五列，具体数据类型如下
+```{r,echo=FALSE,collapse=TRUE}
+df <- iris
+class(df[1, 1])
+class(df[1, 2])
+class(df[1, 3])
+class(df[1, 4])
+class(df[1, 5])
+```
+
+## Task 2
+```{r,collapse=TRUE}
+library(plyr)
+df <- iris
+result <- ddply(df, "Species", summarise, mean = mean(Sepal.Length, na.rm = TRUE), sd = sd(Sepal.Length, na.rm = TRUE))
+write.csv(result, "R basics.csv", quote = F)
+```
+输出文件见`R basics.csv`
+
+## Task 3
+```{r,collapse=TRUE}
+df <- iris
+summary(aov(df$Sepal.Width ~ df$Species, data = df))
+```
