@@ -50,3 +50,8 @@
 
   上传 OL3 文件夹，作业内容为
   * I.3.1 R basics
+
+* 2023年4月21日
+
+  上传 HW6 文件夹，作业内容为
+  * III.2.1 Expression Matrix
