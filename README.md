@@ -60,3 +60,15 @@
 
   上传 OL4 文件夹，作业内容为
   * I.3.2 Plot with R
+
+* 2023年5月1日
+
+  上传 HW7 文件夹，作业内容为
+  * II.3.1 GO
+  * II.3.2 KEGG
+  * III.2.3 Diffential Expression with DESeq2 and edgeR
+
+  分别对应文件为：
+  * GO.md
+  * KEGG.md
+  * Diffential Expression with DESeq2 and edgeR.md
