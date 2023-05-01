@@ -51,3 +51,4 @@ grep AT1G09530 Shape02.count.txt
 输出文件在output文件夹中
 
 分析[热图](output/Rplot.png)知，COAD和READ的转录本是最相近的
+
