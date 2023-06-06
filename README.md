@@ -87,3 +87,7 @@
 
   上传 HW9 文件夹，作业内容为
   * IV.3 Machine Learning with Python
+
+* 2023年6月6日
+
+  上传 HMMbasic 文件夹，完成大作业
